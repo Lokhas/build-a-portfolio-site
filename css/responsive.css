@@ -2,14 +2,14 @@
 
 @media screen and (max-width: 450px) {
 
+.header {
+    padding: 5px;
+  }
+
 .logo {
     max-width: 100%;
     display: block;
     margin: 0 auto;
-  }
-    
-.headerpresentation {
-    padding-bottom: 20px;
   }
 }
 
@@ -17,22 +17,25 @@
 
 @media screen and (max-width: 660px) {
 
-.headerpresentation {
+.name-title {
   display: block;
   margin: 0 auto;
-  padding-bottom: 15px;
   max-width: 100%;
-  }
+}
 }
 
 /*between 451 and 647px*/
 
 @media screen and (min-width: 451px) and (max-width: 647px) {
 
+.header {
+    padding: 10px 20px;
+  }
+
 .logo {
     width: 100%;
     display: block;
-    margin: 0;
+    margin: 0 auto;
   }
 }
 
@@ -46,7 +49,7 @@ h1, h3 {
 
 .header {
     justify-content: space-between;
-    padding-bottom: 15px;
+    padding: 10px 0px;
   }
 }
 
