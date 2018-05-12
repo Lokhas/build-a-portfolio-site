@@ -2,10 +2,6 @@
 
 @media screen and (max-width: 450px) {
 
-.header {
-    padding: 5px;
-  }
-
 .logo {
     max-width: 100%;
     display: block;
