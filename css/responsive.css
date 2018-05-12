@@ -41,6 +41,7 @@ h1, h3 {
 
 .header {
     justify-content: space-between;
+    padding-bottom: 15px;
   }
 }
 
