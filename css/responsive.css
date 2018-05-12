@@ -9,7 +9,7 @@
   }
     
 .headerpresentation {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
   }
 }
 
@@ -19,7 +19,7 @@
 
 .headerpresentation {
   display: block;
-  margin: 0;
+  margin: 0 auto;
   padding-bottom: 15px;
   max-width: 100%;
   }
