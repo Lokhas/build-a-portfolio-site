@@ -109,7 +109,7 @@ h4 {
 .header {
   display: flex;
   flex-wrap: wrap;
-  margin: auto auto 13px auto;
+  margin: 0 auto 13px auto;
   border-bottom: 2px dotted;
 }
 
