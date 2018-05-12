@@ -3,4 +3,4 @@ You will be provided with a design mockup as a PDF-file and must replicate that 
 
 You can see the site [here][1]
 
-[1]https://lokhas.github.io/build-a-portfolio-site/
+[1]: https://lokhas.github.io/build-a-portfolio-site/
