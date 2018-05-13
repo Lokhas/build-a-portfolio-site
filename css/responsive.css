@@ -13,6 +13,16 @@
   }
 }
 
+/*max 647px*/
+
+@media screen and (max-width: 647px) {
+
+.headerpresentation {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
 /*between 451 and 647px*/
 
 @media screen and (min-width: 451px) and (max-width: 647px) {
